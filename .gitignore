@@ -1,0 +1,22 @@
+# Compiled source #
+###################
+KDP3/bin-debug/*
+KDP3/build-release/*
+KDP3/html-template/plugins/*
+kdp3Lib/bin/*
+as3FlexClient/bin/*
+plugins/*/bin-debug/*
+plugins/*/bin/*
+plugins/*/build-release/*
+plugins/*/bin-release/*
+vendors/*/bin/*
+*.prefs
+
+####################
+# Flash builder files #
+###################
+.metadata
+
+plugins/vastPlugin/bin-release/vastPlugin.swf
+
+plugins/vastPlugin/bin-release/vastPlugin.swf
